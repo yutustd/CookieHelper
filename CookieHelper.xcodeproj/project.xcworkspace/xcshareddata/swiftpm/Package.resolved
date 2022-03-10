@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SUEButtons",
+        "repositoryURL": "https://github.com/brampf/SUEButtons.git",
+        "state": {
+          "branch": "master",
+          "revision": "88784193154195c09799aeb5b93f498983f9cb38",
+          "version": null
+        }
+      },
+      {
+        "package": "Toaster",
+        "repositoryURL": "https://ghproxy.com/https://github.com/devxoul/Toaster.git",
+        "state": {
+          "branch": "master",
+          "revision": "e291374fda2be69bed0330e4346d5fb2af08f4ba",
+          "version": null
+        }
+      },
+      {
+        "package": "ToastUI",
+        "repositoryURL": "https://ghproxy.com/https://github.com/quanshousio/ToastUI.git",
+        "state": {
+          "branch": "main",
+          "revision": "e1fd43336630b40a4273a346bd9e6c250151c88d",
+          "version": null
+        }
+      },
+      {
+        "package": "WKView",
+        "repositoryURL": "https://github.com/rebeloper/WKView.git",
+        "state": {
+          "branch": null,
+          "revision": "b9314678cf946e8c02ae1dcaf4e07d6c9dd7712c",
+          "version": "0.1.6"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
